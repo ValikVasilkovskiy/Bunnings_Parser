@@ -1,0 +1,4 @@
+bs4==0.0.1
+openpyxl==2.5.7
+selenium==3.14.0
+pyinstaller==3.4
